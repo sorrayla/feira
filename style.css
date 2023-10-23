@@ -5,5 +5,8 @@ body{
     text-align: center;
 }
 .lista{
-    display: inline-block;
+    display: i;
+}
+ul{
+    text-align: center;
 }

@@ -5,8 +5,12 @@ body{
     text-align: center;
 }
 .lista{
-    display: inline-flex;
+    text-align: center;
+    display:inline-table;
 }
 ul{
-    display:inline
+    display: list-item;
+}
+.lista-itens{
+    text-align: center;
 }
